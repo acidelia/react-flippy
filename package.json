@@ -1,10 +1,10 @@
 {
-  "name": "react-flippy",
+  "name": "react-flippy-material-ui",
   "version": "0.1.2",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sbayd/react-flippy"
+    "url": "https://github.com/acidelia/react-flippy-material-ui"
   },
   "private": false,
   "peerDependencies": {
